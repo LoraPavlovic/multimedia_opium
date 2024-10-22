@@ -1,0 +1,12 @@
+*{
+    color: black;
+    font-weight: 100;
+    font-size: 14pt;
+    font-family: Dosis-VariableFont;
+    font-style: normal;
+    background-color: #C9D7D2;
+}
+@font-face {
+    font-family: Dosis-VariableFont;
+    src: url("dosis/Dosis-VariableFont_wght.ttf");
+}
